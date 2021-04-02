@@ -1,0 +1,7 @@
+{
+  "IMAGE_FOLDER": "static/uploaded",
+  "PROCESSED_FOLDER": "static/processed",
+  "TARGET_INPUT_WIDTH": 6800,
+  "TARGET_INPUT_HEIGHT": 4400,
+  "MODEL_FILE_PATH":"models/vgg"
+}
